@@ -63,16 +63,16 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name:   # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: blog  # your blog must have a name for it to show up in the nav bar
+blog_description: coming soon ...
 permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 # Comments
-disqus_shortname:  # put your disqus shortname
+disqus_shortname: enikhu # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
